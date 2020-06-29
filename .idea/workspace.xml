@@ -8,7 +8,6 @@
   <component name="ChangeListManager">
     <list default="true" id="4da06bfd-befe-40f2-9c5e-f1cc47f2325a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,8 +22,8 @@
       <file leaf-file-name="index.jsp" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/web/index.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1980">
-              <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+            <state relative-caret-position="300">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -112,6 +111,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <push-targets>
+      <push-target-info target-remote="momo" target-branch="master" repo="$PROJECT_DIR$" source="master" />
+    </push-targets>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -434,12 +436,20 @@
       <updated>1593412513937</updated>
       <workItem from="1593412516917" duration="6252000" />
       <workItem from="1593419415500" duration="1726000" />
-      <workItem from="1593430671553" duration="172000" />
+      <workItem from="1593430671553" duration="707000" />
     </task>
+    <task id="LOCAL-00001" summary="24点游戏第一次尝试">
+      <created>1593430877989</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593430877989</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8150000" />
+    <option name="totallyTimeSpent" value="8685000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -455,7 +465,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3304904" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35287845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35287845" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21458773" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -481,6 +491,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="24点游戏第一次尝试" />
+    <option name="LAST_COMMIT_MESSAGE" value="24点游戏第一次尝试" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -670,8 +684,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/web/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1980">
-          <caret line="66" column="7" lean-forward="true" selection-start-line="66" selection-start-column="7" selection-end-line="66" selection-end-column="7" />
+        <state relative-caret-position="300">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
           <folding />
         </state>
       </provider>
